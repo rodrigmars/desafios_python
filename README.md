@@ -2,7 +2,7 @@
 
 ## Exercício-1: Cálcular frete de produto
 
-> **Enunciado**: Desenvolva um módulo em python usando o paradigma funcional para cálcular frete de produto.
+**Enunciado**: Desenvolva um módulo em python usando o paradigma funcional para cálcular frete de produto.
 Usar o arquivo [produtos.dump]("https://github.com/rodrigmars/desafios_python/tree/main/exercicio_1/") para acesso a lista de produtos
 
 **Fórmula**:
