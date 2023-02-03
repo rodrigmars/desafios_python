@@ -2,14 +2,17 @@
 
 ## Exercício-1: Cálcular frete de produto
 
-**Enunciado**: Desenvolva um módulo em python usando o paradigma funcional para cálcular frete de produto.
-Usar o arquivo [produtos]("https://github.com/rodrigmars/desafios_python/blob/39c1a9672a9bc5bdb2cd4820f95405204e3b373a/exercicio_1/produtos.pickle") para acesso a lista de produtos
+**Enunciado**: 눈_눈
 
+Desenvolva um módulo em python usando o paradigma funcional para cálcular frete de produto.
+Usar o arquivo [produtos](https://github.com/rodrigmars/desafios_python/tree/de7f38b2346543099e48ea2eaa06a1954e251ba5/exercicio_1) para acesso a lista de produtos
 
-**Fórmula**:
+**Fórmula**: ⥀.⥀
+
 Valor do frete = [(Valor total do produto na nota ÷ valor total da nota) x Valor do frete]/100.
 
-**Exemplo**:
+**Exemplo**: (Ծ‸ Ծ)
+
 Valor do frete = (5000÷5000) x 300) ÷ 100
 
 Usar a PEP-8(Python Enhancement Protocol 8) para convenções.
@@ -88,3 +91,7 @@ Windows:
 ```bash
 pip freeze | findstr 'autopep8 pycodestyle pylint pytest' > requirements.txt
 ```
+
+(╯°□°）╯︵ ┻━┻
+
+Agora é só aguardar pelo próximo desafio
