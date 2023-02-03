@@ -24,14 +24,15 @@ PEP 8 – Style Guide for Python Code
 
 [Criar ambiente](#criar-ambiente)
 
+[Ativar ambiente](#ativar-ambiente)
+
 [Instalar bibliotecas](#instalar-bibliotecas)
 
 [Gerar arquivo de dependências](#gerar-arquivo-de-dependências)
 
 ## Versão Python
 
-Versão necessária para
-[python 3.9.2](https://www.python.org/downloads/release/python-392/)
+Versão [python 3.9.2](https://www.python.org/downloads/release/python-392/)  necessária L(° O °L)
 
 Obs:Para uma instalação do python utilize a ferramenta pyenv
 [pyenv-win](https://github.com/pyenv-win/pyenv-win)
@@ -44,7 +45,9 @@ python -m venv venv-exercicio_1
 mkdir exercicio_1
 ```
 
-Linux:
+## Ativar ambiente
+
+Linux: ✔
 
 ```bash
 source venv-exercicio_1/bin/activate
@@ -80,7 +83,7 @@ pip install --upgrade pylint
 
 ## Gerar arquivo de dependências
 
-Linux:
+Linux: ✔
 
 ```bash
 pip freeze | grep -E 'autopep8|pycodestyle|pylint|pytest' > requirements.txt
