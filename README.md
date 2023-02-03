@@ -3,7 +3,8 @@
 ## Exercício-1: Cálcular frete de produto
 
 **Enunciado**: Desenvolva um módulo em python usando o paradigma funcional para cálcular frete de produto.
-Usar o arquivo [produtos.dump]("https://github.com/rodrigmars/desafios_python/tree/main/exercicio_1/") para acesso a lista de produtos
+Usar o arquivo [produtos]("https://github.com/rodrigmars/desafios_python/blob/39c1a9672a9bc5bdb2cd4820f95405204e3b373a/exercicio_1/produtos.pickle") para acesso a lista de produtos
+
 
 **Fórmula**:
 Valor do frete = [(Valor total do produto na nota ÷ valor total da nota) x Valor do frete]/100.
