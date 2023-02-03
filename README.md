@@ -16,17 +16,21 @@ Usar a PEP-8(Python Enhancement Protocol 8) para convenções.
 PEP 8 – Style Guide for Python Code
 [PEP 8](https://peps.python.org/pep-0008/)
 
-Versão 3.9.2 necessária para python
-[Versão 3.9.2](https://www.python.org/downloads/release/python-392/)
-
-Obs:Para uma instalação do python utilize a ferramenta pyenv
-[pyenv-win](https://github.com/pyenv-win/pyenv-win)
+[Versão Python](#versão-python)
 
 [Criar ambiente](#criar-ambiente)
 
 [Instalar bibliotecas](#instalar-bibliotecas)
 
 [Gerar arquivo de dependências](#gerar-arquivo-de-dependências)
+
+## Versão Python
+
+Versão necessária para
+[python 3.9.2](https://www.python.org/downloads/release/python-392/)
+
+Obs:Para uma instalação do python utilize a ferramenta pyenv
+[pyenv-win](https://github.com/pyenv-win/pyenv-win)
 
 ## Criar ambiente
 
