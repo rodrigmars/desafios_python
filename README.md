@@ -2,7 +2,7 @@
 
 ## Exercício-1: Cálcular frete de produto
 
-**Enunciado**: Desenvolva um módulo em python usando o paradigma funcional para cálcular frete de produto.
+> **Enunciado**: Desenvolva um módulo em python usando o paradigma funcional para cálcular frete de produto.
 Usar o arquivo produtos.dump para acesso a lista de produtos
 
 **Fórmula**:
@@ -11,7 +11,7 @@ Valor do frete = [(Valor total do produto na nota ÷ valor total da nota) x Valo
 **Exemplo**:
 Valor do frete = (5000÷5000) x 300) ÷ 100
 
-- Usar a PEP-8(Python Enhancement Protocol 8) para convenções.
+Usar a PEP-8(Python Enhancement Protocol 8) para convenções.
 
 PEP 8 – Style Guide for Python Code
 [PEP 8](https://peps.python.org/pep-0008/)
@@ -22,7 +22,13 @@ Versão 3.9.2 necessária para python
 Obs:Para uma instalação do python utilize a ferramenta pyenv
 [pyenv-win](https://github.com/pyenv-win/pyenv-win)
 
-- Script para montar ambiente:
+[Criar ambiente](#criar-ambiente)
+
+[Instalar bibliotecas](#instalar-bibliotecas)
+
+[Gerar arquivo de dependências](#gerar-arquivo-de-dependências)
+
+## Criar ambiente
 
 ```bash
 mkdir exercicio_1 && cd exercicio_1
@@ -30,13 +36,13 @@ python -m venv venv-exercicio_1
 mkdir exercicio_1
 ```
 
-- Linux:
+Linux:
 
 ```bash
 source venv-exercicio_1/bin/activate
 ```
 
-- Windows:
+Windows:
 
 ```bash
 venv-exercicio_1\Scripts\activate
@@ -44,7 +50,7 @@ venv-exercicio_1\Scripts\activate
 
 Dúvidas sobre [venv](https://docs.python.org/3/library/venv.html)
 
-- Bibliotecas necessárias:
+## Instalar bibliotecas
 
 [autopep8](https://github.com/hhatto/autopep8)
 
@@ -64,7 +70,7 @@ pip install --upgrade pycodestyle
 pip install --upgrade pylint
 ```
 
-- Gerando arquivo de dependências
+## Gerar arquivo de dependências
 
 Linux:
 
