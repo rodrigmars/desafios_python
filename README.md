@@ -15,20 +15,23 @@ Valor do frete = [(Valor total do produto na nota ÷ valor total da nota) x Valo
 
 Valor do frete = (5000÷5000) x 300) ÷ 100
 
-Usar a PEP-8(Python Enhancement Protocol 8) para convenções.
+## Guia de procedimentos
 
-PEP 8 – Style Guide for Python Code
-[PEP 8](https://peps.python.org/pep-0008/)
+[1 - Convenções](#convenções)
 
-[Versão Python](#versão-python)
+[2 - Versão Python](#versão-python)
 
-[Criar ambiente](#criar-ambiente)
+[3 - Criar ambiente](#criar-ambiente)
 
-[Ativar ambiente](#ativar-ambiente)
+[4 - Ativar ambiente](#ativar-ambiente)
 
-[Instalar bibliotecas](#instalar-bibliotecas)
+[5 - Instalar bibliotecas](#instalar-bibliotecas)
 
-[Gerar arquivo de dependências](#gerar-arquivo-de-dependências)
+[6 - Gerar arquivo de dependências](#gerar-arquivo-de-dependências)
+
+## Convenções
+
+Adotar as convenções da [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/).
 
 ## Versão Python
 
