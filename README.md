@@ -31,14 +31,21 @@ Valor do frete = (5000÷5000) x 300) ÷ 100
 
 ## Convenções
 
-Adotar as convenções da [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/).
+Adotar convenções da [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/).
 
 ## Versão Python
 
 Versão [python 3.9.2](https://www.python.org/downloads/release/python-392/)  necessária L(° O °L)
 
-Obs:Para uma instalação do python utilize a ferramenta pyenv
-[pyenv-win](https://github.com/pyenv-win/pyenv-win)
+Para instalação do python, selecione uma das ferramentas:
+
+- Linux
+  - [Simple Python Version Management: pyenv](https://github.com/pyenv/pyenv)
+  - [asdf-python](https://github.com/asdf-community/asdf-python)
+
+- Windows
+  - [pyenv for Windows](https://github.com/pyenv-win/pyenv-win)
+  - [chocolatey - python 3.9.2](https://community.chocolatey.org/packages/python/3.9.2)
 
 ## Criar ambiente
 
