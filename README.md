@@ -15,19 +15,14 @@ Valor do frete = [(Valor total do produto na nota ÷ valor total da nota) x Valo
 
 Valor do frete = (5000÷5000) x 300) ÷ 100
 
-## Guia de procedimentos
+- ## 𓀎 Guia de procedimentos
 
-[1 - Convenções](#convenções)
-
-[2 - Versão Python](#versão-python)
-
-[3 - Criar ambiente](#criar-ambiente)
-
-[4 - Ativar ambiente](#ativar-ambiente)
-
-[5 - Instalar bibliotecas](#instalar-bibliotecas)
-
-[6 - Gerar arquivo de dependências](#gerar-arquivo-de-dependências)
+  - [Convenções](#convenções)
+  - [Versão Python](#versão-python)
+  - [Criar ambiente](#criar-ambiente)
+  - [Ativar ambiente](#ativar-ambiente)
+  - [Instalar bibliotecas](#instalar-bibliotecas)
+  - [Gerar arquivo de dependências](#gerar-arquivo-de-dependências)
 
 ## Convenções
 
@@ -69,7 +64,7 @@ Windows:
 venv-exercicio_1\Scripts\activate
 ```
 
-Dúvidas sobre [venv](https://docs.python.org/3/library/venv.html)
+ಥ Dúvidas sobre [venv](https://docs.python.org/3/library/venv.html)
 
 ## Instalar bibliotecas
 
