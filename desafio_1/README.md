@@ -3,7 +3,7 @@
 **Enunciado**: 눈_눈
 
 Desenvolva um módulo em python usando o paradigma funcional para cálcular frete de produto.
-Usar o arquivo [produtos](https://github.com/rodrigmars/desafios_python/blob/1cf590cf9b142913126ee4d64b19cca36f0b95f8/desafio_1/produtos.pickle) para acesso a lista de produtos
+Usar o arquivo [produtos](https://github.com/rodrigmars/desafios_python/blob/69e7c5b9fbe68debe8030331001d2510a08890ea/desafio_1/dataset/produtos.pickle) para acesso a lista de produtos
 
 **Fórmula**: ⥀.⥀
 
